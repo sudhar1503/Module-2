@@ -21,6 +21,7 @@ print("Sum =", f(a, b))
 ## Output
 
 Enter first number: 10
+
 Enter second number: 20
 Sum = 30
 
