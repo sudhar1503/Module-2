@@ -37,6 +37,7 @@ else:
 📌 Output 1
 Enter a number: 121
 Palindrome Number
+
 📌 Output 2
 Enter a number: 123
 Not a Palindrome Number
