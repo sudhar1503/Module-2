@@ -25,6 +25,7 @@ result(a, b)
 ## Output
 
 Enter first number: 17
+
 Enter second number: 5
 2
 
